@@ -1,6 +1,6 @@
 {
-    "name": "starbucks_mobile_app",
-    "short_name": "starbucks_mobile_app",
+    "name": "starbucks_app",
+    "short_name": "starbucks_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

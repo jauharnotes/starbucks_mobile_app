@@ -1,4 +1,4 @@
-package com.example.starbucks_mobile_app
+package com.example.starbucks_app
 
 import io.flutter.embedding.android.FlutterActivity
 

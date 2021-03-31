@@ -1,4 +1,4 @@
-# starbucks_mobile_app
+# starbucks_app
 
 A new Flutter project.
 
